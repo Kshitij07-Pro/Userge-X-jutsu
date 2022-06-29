@@ -52,3 +52,4 @@ ruamel.yaml==0.17.21
 ujson>=4.0.1
 youtube-search-python==1.5.1
 feedparser>=6.0.2
+natsort>=7.1.1
